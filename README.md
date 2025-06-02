@@ -36,9 +36,9 @@ python3 main.py
 ```
 
 ## Flashing
-1. Connect your phone to your computer. You can use your charging cable. \
-2. Install and run iBootMe. \
-3. Choose your options. If your a casual user, you may not need to tinker with the advanced options \
+1. Connect your phone to your computer. You can use your charging cable. 
+2. Install and run iBootMe. 
+3. Choose your options. If your a casual user, you may not need to tinker with the advanced options 
 4. Click the "Flash!" button. If you encounter an issue, you can copy and paste the output and report the issue on our GitHub.
 
 ## Will there be a macOS / Windows version eventually?
